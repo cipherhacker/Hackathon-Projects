@@ -1,0 +1,9 @@
+[submodule "Pluto-Blink-Monitoring"]
+	path = Pluto-Blink-Monitoring
+	url = https://github.com/cipherhacker/Pluto-Blink-Monitoring.git
+[submodule "College-Web-Portal"]
+	path = College-Web-Portal
+	url = https://github.com/cipherhacker/College-Web-Portal.git
+[submodule "StockPrice-Predictor-by-Regression-Model-and-Sentimental-Analysis"]
+	path = StockPrice-Predictor-by-Regression-Model-and-Sentimental-Analysis
+	url = https://github.com/cipherhacker/StockPrice-Predictor-by-Regression-Model-and-Sentimental-Analysis.git
